@@ -26,8 +26,10 @@ Welcome to my personal portfolio! This website showcases my skills, projects, an
 ---
 
 ## 📧 **Contact Me**  
-📩 **Email:** [parthraheja1205@gmail.com](mailto:parthraheja1205@gmail.com)  
+📩 **Email:** [parthraheja1205@gmail.com](mailto:parthraheja1205@gmail.com) 
+ 
 🔗 **LinkedIn:** [linkedin.com/in/parth-raheja](https://www.linkedin.com/in/parth-raheja-ba765b230/) 
+
 🐙 **GitHub:** [github.com/novice1205](https://github.com/novice1205/)
 
 ---
