@@ -2,7 +2,7 @@ import { motion, useScroll, useTransform } from "framer-motion";
 import { Typewriter } from "react-simple-typewriter";
 import { useRef } from "react";
 import { Link } from "react-scroll"; // Import react-scroll Link
-import backgroundImage from "../assets/CoverImage3.jpg"; // Ensure the correct path
+import backgroundImage from "../assets/Background2.gif"; // Ensure the correct path
 
 const Hero = () => {
   const heroRef = useRef(null);
@@ -26,11 +26,12 @@ const Hero = () => {
           backgroundImage: `url(${backgroundImage})`,
           y: backgroundY,
           backgroundSize: "cover",
+          backgroundRepeat: "no-repeat"
         }}
       />
 
       {/* Dark Overlay for Better Contrast */}
-      <div className="absolute inset-0 bg-black/50" />
+      <div className="absolute inset-0 bg-white/10" />
 
       {/* Hero Content */}
       <div className="relative z-10 w-full max-w-4xl px-6">
