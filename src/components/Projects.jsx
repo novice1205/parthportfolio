@@ -20,7 +20,7 @@ const projects = [
   {
     title: "PrepPal AI",
     description: "AI-driven flashcard generator that extracts key content from PDFs.",
-    link: "https://preppalai-ten.vercel.app/",
+    link: "https://preppalbyparthnvidit.vercel.app/",
     image: SS,
   },
   {
